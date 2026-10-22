@@ -6,9 +6,9 @@ _A retexture for the "3d Armor" to add a more fantasy feel_
 
 I recommend only downloading this if you're on v5.18+ which would allow you to use this with other texture packs.
 
-## Screenshots
+## Screenshot
 
-![armor_smith](armor_smith_screenshot.png) ![armor_smith](armor_smith_screenshot2.png)
+<img width="1356" height="1005" alt="screenshot" src="https://github.com/user-attachments/assets/7b18662a-01b9-4693-b668-6843d2f0b71c" />
 
 ## Status
 
